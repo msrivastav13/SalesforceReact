@@ -1,6 +1,11 @@
 # Logs
 logs
 *.log
+config/
+*.sublime-project
+*.sublime-workspace
+*.log
+deploy/
 
 # Runtime data
 pids

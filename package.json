@@ -1,0 +1,23 @@
+{
+  "name": "samplereactprj",
+  "version": "0.0.1",
+  "description": "React Js package JSON for Visuaforce",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "mohith shrivastava",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^11.2.0",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-streamify": "^1.0.2",
+    "gulp-uglify": "^1.4.1",
+    "gulp-zip": "^3.0.2",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.4.0",
+    "zip": "^1.2.0"
+  }
+}
